@@ -180,7 +180,7 @@
 .header_container-sidebar-list-img-tt-c2{
     flex: 1;
     text-align: left;
-    padding-left: 30px;
+    padding-left: 24px;
 }
 
 .header-aa-c1{
@@ -192,6 +192,7 @@
 .h3-header{
     margin-top: 5px;
     letter-spacing: 1px;
+    white-space: nowrap;
 }
 
 .header-aa-c2{
@@ -226,6 +227,23 @@
     border-radius: 30px;
     margin-top: 10px;
     background: linear-gradient(to right, #ffd205 0%, #ff9b05 100%);
+}
+
+.header_container-sidebar-list-img-tt:nth-child(2) .header-aa-c3{
+    background: linear-gradient(to right, #f76570 0%, #f78d65 100%);
+}
+.header_container-sidebar-list-img-tt:nth-child(3) .header-aa-c3{
+    background: linear-gradient(to right, #ba71da 0%, #da717b 100%);
+}
+
+.mt-top .header_container-sidebar-list-img-tt:nth-child(1) .header-aa-c3{
+    background: linear-gradient(to right, #1bbc9b 0%, #1bbc63 100%);
+}
+.mt-top .header_container-sidebar-list-img-tt:nth-child(2) .header-aa-c3{
+    background: linear-gradient(to right, #f3a46b 0%, #f3c96b 100%);
+}
+.mt-top .header_container-sidebar-list-img-tt:nth-child(3) .header-aa-c3{
+    background: linear-gradient(to right, #14b9d5 0%, #14d5b1 100%);
 }
 
 .header_menu-europe{
