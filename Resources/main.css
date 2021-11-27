@@ -1243,6 +1243,7 @@
     z-index: 99;
     overflow-y: auto;
     transition: all linear 0.5s;
+    display: none;
 }
 
 .btn-icon-header_mobile{
